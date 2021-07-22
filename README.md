@@ -12,29 +12,6 @@ For more detail about this dataset visit [this Github repository](https://github
 * Sklearn (pip install sklearn)
 * Mathplotlib
 
-## Usage
-Clone this repository and open notebook with this cammand:
 
-```
-juputer notebook CNN-Fashion_MNIST.ipynb
-```
-
-
-## Support
-
-**Contact me @:**
-
-e-mail:
-
-* farzanehkoohestani2000@gmail.com
-
-Telegram id:
-
-* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
-
-## License
-[MIT](https://github.com/farkoo/CNN-Fashion_MNIST/blob/master/LICENSE)
-&#0169; 
-[Farzaneh Koohestani](https://github.com/farkoo)
 
 
